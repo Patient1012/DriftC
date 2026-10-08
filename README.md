@@ -1,10 +1,11 @@
+```
        __     _ ______      
   ____/ /____(_) __/ /______
  / __  / ___/ / /_/ __/ ___/
 / /_/ / /  / / __/ /_/ /__  
 \__,_/_/  /_/_/  \__/\___/  
                             
-
+```
 A lightweight C library providing Drift-inspired types and utilities for C99.
 
 `driftc` aims to make C more convenient to write while keeping the simplicity, control, and portability of standard C. It builds on existing C functionality rather than trying to replace the language.
