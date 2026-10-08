@@ -3,6 +3,7 @@
 
 #include <stdint.h>
 #include <stdbool.h>
+#include <stddef.h>
 
 // signed integers
 typedef int8_t   i8;
@@ -19,6 +20,9 @@ typedef uint64_t ui64;
 // floating point types
 typedef float  f32;
 typedef double f64;
+
+// size type
+typedef size_t usize;
 
 typedef bool bool_t;
 
