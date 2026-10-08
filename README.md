@@ -1,4 +1,9 @@
-# driftc
+       __     _ ______      
+  ____/ /____(_) __/ /______
+ / __  / ___/ / /_/ __/ ___/
+/ /_/ / /  / / __/ /_/ /__  
+\__,_/_/  /_/_/  \__/\___/  
+                            
 
 A lightweight C library providing Drift-inspired types and utilities for C99.
 
